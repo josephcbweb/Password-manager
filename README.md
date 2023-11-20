@@ -16,19 +16,25 @@ Clone the Repository:
 bash
 Copy code
 git clone https://github.com/josephcbweb/Password-manager.git
+
 Install Dependencies:
 
 bash
 Copy code
 pip install pyperclip
+
 Run the Program:
 
 bash
 Copy code
 python your_program.py
+
 Dependencies
+
 pyperclip: Used for copying generated passwords to the clipboard.
+
 Usage
+
 Launch the program and use the graphical user interface to generate and manage passwords.
 Click "Generate Password" to create a strong password.
 Enter website, email, and password information, then click "Add" to save the data.
