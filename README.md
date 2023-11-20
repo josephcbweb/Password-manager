@@ -1,4 +1,6 @@
 Password Manager
+
+
 This is a simple password manager written in Python using the Tkinter library for the graphical user interface. The program allows users to generate secure passwords, save them along with corresponding website and email information, and search for saved passwords.
 
 Features
