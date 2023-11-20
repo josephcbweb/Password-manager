@@ -44,5 +44,6 @@ your_program.py: The main Python script containing the password manager program.
 data.json: JSON file where password information is stored.
 
 Disclaimer
+
 This password manager is intended for educational purposes and may not provide the same level of security as professionally developed password managers. Use at your own risk.
 Feel free to customize this README file based on your preferences and add any additional sections or information you find relevant.
